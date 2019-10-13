@@ -1,0 +1,5 @@
+<resources>
+    <string name="hello">Hello From FuLLKade!</string>
+    <string name="btnChangeLang">Chage Language</string>
+    <string name="app_name">FuLLKade Application</string>
+</resources>

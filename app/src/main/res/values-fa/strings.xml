@@ -1,0 +1,5 @@
+<resources>
+    <string name="hello">سلامی از طرف فول کده!</string>
+    <string name="btnChangeLang">تغییر زبان</string>
+    <string name="app_name">FuLLKade Application</string>
+</resources>

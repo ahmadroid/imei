@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Get IMEI2</string>
+    <string name="permissions_not_granted_read_phone_state">not perm</string>
+    <string name="permission_read_phone_state_rationale">permiss</string>
+</resources>
